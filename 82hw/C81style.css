@@ -1,0 +1,17 @@
+
+h1
+{
+	color: red; 
+	font-size: 40px;
+}
+.body_background {
+	background-image: url("https://previews.123rf.com/images/grthirteen/grthirteen1407/grthirteen140700153/29721561-abstract-art-background-hand-painted-background-self-made-.jpg"); 
+	background-position: center; background-size: cover;
+} 
+
+#myCanvas{
+background-color: blueviolet;
+border-width: 3px; 
+border-style: dotted;
+
+}
